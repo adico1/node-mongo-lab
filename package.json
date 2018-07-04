@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo-lab",
+  "version": "1.0.0",
+  "description": "creating a nodejs/mongodb lab for my blog",
+  "main": "connect-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "adico <adico1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0"
+  }
+}
